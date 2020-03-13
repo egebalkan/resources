@@ -11,7 +11,16 @@ https://github.com/manfreddiaz/awesome-autonomous-vehicles
 https://github.com/jaredthecoder/awesome-vehicle-security  
 
 ## Python  
+https://www.python.org/dev/peps/pep-0008/
 https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python  
+
+## ROS  
+https://www.ros.org/reps/rep-0000.html
+http://wiki.ros.org/ROS/Tutorials  
+https://www.riotu-lab.org/udemy.php#ros  
+
+## Signal Processing
+http://www.dspguide.com/  
 
 ## Misc  
 https://github.com/UCBerkeleySETI/breakthrough/tree/master/GBT  
