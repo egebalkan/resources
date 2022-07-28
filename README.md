@@ -22,9 +22,13 @@ https://www.riotu-lab.org/udemy.php#ros
 ## Signal Processing
 http://www.dspguide.com/  
 
+## Robotics
+https://github.com/AtsushiSakai/PythonRobotics
+
 ## Misc  
 https://github.com/UCBerkeleySETI/breakthrough/tree/master/GBT  
 https://github.com/sentinelsat/sentinelsat  
+
 
 
 
